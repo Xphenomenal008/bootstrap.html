@@ -1,2 +1,2 @@
 # bootstrap.html
-this is made a with bootstrap framework
+this website is made  with  a bootstrap framework
